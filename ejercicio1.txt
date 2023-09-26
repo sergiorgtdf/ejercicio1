@@ -1,2 +1,0 @@
-Para clonar el repositorio use use la consola CMD con el siguiente comando
-git clone https://github.com/sergiorgtdf/ejercicio1.git

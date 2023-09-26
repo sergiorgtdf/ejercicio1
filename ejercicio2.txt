@@ -1,0 +1,10 @@
+Para clonar el repositorio tuve que usar la linea de comandos ya que la aplicacion github desktop no me reconoce la direccion del repositorio.
+
+git clone https://github.com/sergiorgtdf/ejercicio1.git
+
+desde la aplicacion hay que ir a 
+File > clone repository... 
+Copiar enlace 
+seleccionar la carpeta donde se va a guardar
+y hacer clic en clone
+
